@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/technical-test-frontend/static/css/main.b56fd8bc.css",
-    "main.js": "/technical-test-frontend/static/js/main.090a4fd8.js",
+    "main.js": "/technical-test-frontend/static/js/main.1b2c6aa8.js",
     "static/media/img-big-banner.jpg": "/technical-test-frontend/static/media/img-big-banner.38d3c42d59cecc7ae593.jpg",
     "static/media/img-banner2-2.jpg": "/technical-test-frontend/static/media/img-banner2-2.e2cabc2bfe45ec41d77c.jpg",
     "static/media/img-banner2-1.jpg": "/technical-test-frontend/static/media/img-banner2-1.10295defc0acb4014039.jpg",
@@ -20,10 +20,10 @@
     "static/media/img-icon-pin-blue.svg": "/technical-test-frontend/static/media/img-icon-pin-blue.4955701fbda073c2bc71ecfa94f8c388.svg",
     "static/media/img-icon-chevron-right.svg": "/technical-test-frontend/static/media/img-icon-chevron-right.73a2c04cd008adc52ee7c3da5d90e4e9.svg",
     "main.b56fd8bc.css.map": "/technical-test-frontend/static/css/main.b56fd8bc.css.map",
-    "main.090a4fd8.js.map": "/technical-test-frontend/static/js/main.090a4fd8.js.map"
+    "main.1b2c6aa8.js.map": "/technical-test-frontend/static/js/main.1b2c6aa8.js.map"
   },
   "entrypoints": [
     "static/css/main.b56fd8bc.css",
-    "static/js/main.090a4fd8.js"
+    "static/js/main.1b2c6aa8.js"
   ]
 }
