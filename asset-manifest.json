@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/technical-test-frontend/static/css/main.b56fd8bc.css",
+    "main.js": "/technical-test-frontend/static/js/main.090a4fd8.js",
+    "static/media/img-big-banner.jpg": "/technical-test-frontend/static/media/img-big-banner.38d3c42d59cecc7ae593.jpg",
+    "static/media/img-banner2-2.jpg": "/technical-test-frontend/static/media/img-banner2-2.e2cabc2bfe45ec41d77c.jpg",
+    "static/media/img-banner2-1.jpg": "/technical-test-frontend/static/media/img-banner2-1.10295defc0acb4014039.jpg",
+    "static/media/img-doctor.svg": "/technical-test-frontend/static/media/img-doctor.6e6bc8cb0d9869ca559eb41559b26c12.svg",
+    "static/media/img-post-1.jpg": "/technical-test-frontend/static/media/img-post-1.0d8b3336e3ebb7546990.jpg",
+    "static/media/img-mitra-4.png": "/technical-test-frontend/static/media/img-mitra-4.b66cfecf2cf81140e4ea.png",
+    "static/media/img-mitra-3.png": "/technical-test-frontend/static/media/img-mitra-3.43783cfe1bf3ae38a76b.png",
+    "static/media/img-mitra-1.png": "/technical-test-frontend/static/media/img-mitra-1.0a67350beae823d70630.png",
+    "static/media/img-calendar.svg": "/technical-test-frontend/static/media/img-calendar.78bc158b47b9e316826415acf9c5f6ac.svg",
+    "static/media/img-icon-stetoscop.svg": "/technical-test-frontend/static/media/img-icon-stetoscop.0885e9196d84a8b3ebe324ea1dd7ab04.svg",
+    "static/media/img-icon-facebook.svg": "/technical-test-frontend/static/media/img-icon-facebook.9a6cc4bea27500c5222f855e89f26451.svg",
+    "static/media/img-message.svg": "/technical-test-frontend/static/media/img-message.3e9d10757ca5cf68478b0bfbc8fa76b8.svg",
+    "index.html": "/technical-test-frontend/index.html",
+    "static/media/img-icon-pin-map.svg": "/technical-test-frontend/static/media/img-icon-pin-map.ff42e2f011569d7a1c87dc8239b1e82b.svg",
+    "static/media/img-email.svg": "/technical-test-frontend/static/media/img-email.b9eec5fb2121d55aeb50d0116c298d38.svg",
+    "static/media/img-icon-pin-blue.svg": "/technical-test-frontend/static/media/img-icon-pin-blue.4955701fbda073c2bc71ecfa94f8c388.svg",
+    "static/media/img-icon-chevron-right.svg": "/technical-test-frontend/static/media/img-icon-chevron-right.73a2c04cd008adc52ee7c3da5d90e4e9.svg",
+    "main.b56fd8bc.css.map": "/technical-test-frontend/static/css/main.b56fd8bc.css.map",
+    "main.090a4fd8.js.map": "/technical-test-frontend/static/js/main.090a4fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b56fd8bc.css",
+    "static/js/main.090a4fd8.js"
+  ]
+}
